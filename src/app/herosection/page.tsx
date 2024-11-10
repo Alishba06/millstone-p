@@ -3,7 +3,7 @@
 import React from 'react'
 import Image from 'next/image'
 import {TypeAnimation} from 'react-type-animation'
-import Social from '../social/page'      
+  
 const HeroSection = () => {
     return (
       <div>
