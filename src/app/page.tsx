@@ -2,9 +2,7 @@
 import React from 'react'
 import Navbar from './navebar/page'
 import HeroSection from './herosection/page'
-// import Footer from './footer/page'
-// import Image from 'next/image'
-// import {TypeAnimation} from 'react-type-animation'
+
 const Home = () => {
   return (
     <div>
@@ -15,7 +13,7 @@ const Home = () => {
         <HeroSection/>
         </div>
       </main>
-      {/* <Footer/> */}
+     
     </div>
   )
 }
